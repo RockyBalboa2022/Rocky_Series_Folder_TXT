@@ -1,5 +1,5 @@
 <item>
-<title>[B]Season 01 Odcinek 01[/B]</title>
+<title>[B]Season 01 Episode 01[/B]</title>
 <link>https://hhostss.com/stream/v1/playlist/eyJ0cyI6MTY3MDA4MzY5MCwidSI6MzUxOSwiZnJlZSI6MCwiY2hrIjoiZmQ3MWVjNThjNDkyYzNlMTZiMWRkZDE5M2VlOWVlYTcifQ/0/play/c837fad7f81e71877de3a42dc78fb89e/index-f3-v1-a1.m3u8</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ppJu4ljpUUnNfSvltOMAS2QrZ7N.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w780/k7oG0fi8zwV3fJJialemqm5VLlZ.jpg</fanart>
@@ -7,7 +7,7 @@
 </item>
 
 <item>
-<title>[B]Season 01 Odcinek 02[/B]</title>
+<title>[B]Season 01 Episode 02[/B]</title>
 <link>https://hhostss.com/stream/v1/playlist/eyJ0cyI6MTY3MDA4MzczMCwidSI6MzUxOSwiZnJlZSI6MCwiY2hrIjoiZWY4NWM3YmU5MzgwY2M3NTllMmJjOWU5YmFmY2QzMzcifQ/0/play/9bbb3f994d0dc8d6699742e1d055ee15/index-f3-v1-a1.m3u8</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ppJu4ljpUUnNfSvltOMAS2QrZ7N.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w780/k7oG0fi8zwV3fJJialemqm5VLlZ.jpg</fanart>
@@ -15,7 +15,7 @@
 </item>
 
 <item>
-<title>[B]Season 01 Odcinek 03[/B]</title>
+<title>[B]Season 01 Episode 03[/B]</title>
 <link>https://hhostss.com/stream/v1/playlist/eyJ0cyI6MTY3MDA4Mzc0NywidSI6MzUxOSwiZnJlZSI6MCwiY2hrIjoiZGUwMWQ3YzM3MTc2ZmMwZWJjMThjYmY3N2ViZTNkM2IifQ/0/play/1f6f34e94d63bb4d04094b599520f437/index-f3-v1-a1.m3u8</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ppJu4ljpUUnNfSvltOMAS2QrZ7N.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w780/k7oG0fi8zwV3fJJialemqm5VLlZ.jpg</fanart>
@@ -23,7 +23,7 @@
 </item>
 
 <item>
-<title>[B]Season 01 Odcinek 04[/B]</title>
+<title>[B]Season 01 Episode 04[/B]</title>
 <link>https://hhostss.com/stream/v1/playlist/eyJ0cyI6MTY3MDA4Mzc2NCwidSI6MzUxOSwiZnJlZSI6MCwiY2hrIjoiMGYwODQ4NmE0MGQ0OTQ2ZWIzZGJlODQwMGI3ZWRjMWQifQ/0/play/cb7ca16105bbd7b23cc1509b094f736d/index-f3-v1-a1.m3u8</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ppJu4ljpUUnNfSvltOMAS2QrZ7N.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w780/k7oG0fi8zwV3fJJialemqm5VLlZ.jpg</fanart>
@@ -31,7 +31,7 @@
 </item>
 
 <item>
-<title>[B]Season 01 Odcinek 05[/B]</title>
+<title>[B]Season 01 Episode 05[/B]</title>
 <link>https://hhostss.com/stream/v1/playlist/eyJ0cyI6MTY3MDA4Mzc4MiwidSI6MzUxOSwiZnJlZSI6MCwiY2hrIjoiNTI2ZTAwNDQ4MGFiNzdjYjhiNTY0NWVjOWQwZTViNjIifQ/0/play/118989eede5f48e0c9dded2534519bf7/index-f3-v1-a1.m3u8</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ppJu4ljpUUnNfSvltOMAS2QrZ7N.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w780/k7oG0fi8zwV3fJJialemqm5VLlZ.jpg</fanart>
@@ -39,7 +39,7 @@
 </item>
 
 <item>
-<title>[B]Season 01 Odcinek 06[/B]</title>
+<title>[B]Season 01 Episode 06[/B]</title>
 <link>https://hhostss.com/stream/v1/playlist/eyJ0cyI6MTY3MDA4Mzc5NSwidSI6MzUxOSwiZnJlZSI6MCwiY2hrIjoiNzM2ZmI4NTVkZWJiYzEyNDJiN2EwN2QwYjZiYTM4ZWQifQ/0/play/ed3578926f6542374e41b72fd49085c7/index-f3-v1-a1.m3u8</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ppJu4ljpUUnNfSvltOMAS2QrZ7N.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w780/k7oG0fi8zwV3fJJialemqm5VLlZ.jpg</fanart>
@@ -47,7 +47,7 @@
 </item>
 
 <item>
-<title>[B]Season 01 Odcinek 07[/B]</title>
+<title>[B]Season 01 Episode 07[/B]</title>
 <link>https://hhostss.com/stream/v1/playlist/eyJ0cyI6MTY3MDA4MzgwOCwidSI6MzUxOSwiZnJlZSI6MCwiY2hrIjoiNzBkNTk1MTlkMzBjNzMxOWNkZDEyYTE1MjA5YWE1NmQifQ/0/play/61cd6ace3362ed9d54dc5574879d0450/index-f3-v1-a1.m3u8</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ppJu4ljpUUnNfSvltOMAS2QrZ7N.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w780/k7oG0fi8zwV3fJJialemqm5VLlZ.jpg</fanart>
@@ -55,7 +55,7 @@
 </item>
 
 <item>
-<title>[B]Season 01 Odcinek 08[/B]</title>
+<title>[B]Season 01 Episode 08[/B]</title>
 <link>https://hhostss.com/stream/v1/playlist/eyJ0cyI6MTY3MDA4MzgyMiwidSI6MzUxOSwiZnJlZSI6MCwiY2hrIjoiYzVlYmEwMzNhYTBlOGM5NTBjMGNkNjQ1NTgyYzU4YjIifQ/0/play/1c487ea0a5af289fdb8116cc0c3127d2/index-f3-v1-a1.m3u8</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ppJu4ljpUUnNfSvltOMAS2QrZ7N.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w780/k7oG0fi8zwV3fJJialemqm5VLlZ.jpg</fanart>
@@ -63,7 +63,7 @@
 </item>
 
 <item>
-<title>[B]Season 02 Odcinek 01[/B]</title>
+<title>[B]Season 02 Episode 01[/B]</title>
 <link>https://hhostss.com/stream/v1/playlist/eyJ0cyI6MTY3MDA4MzgzOSwidSI6MzUxOSwiZnJlZSI6MCwiY2hrIjoiNmYyODg5MGRkMzA2N2E3ZTRlN2UwMzE4OWYwYmZhMjUifQ/0/play/da27f83e75b7cc2e7e652eb89e7a86cd/index-f3-v1-a1.m3u8</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ipYbLQfZtMLgA0i1KaMYYfZbGvd.jpg</thumbnail>
 <fanart>https://www.crew-united.com/Media/Images/1620/1620295/1620295.entity.jpg</fanart>
@@ -71,7 +71,7 @@
 </item>
 
 <item>
-<title>[B]Season 02 Odcinek 02[/B]</title>
+<title>[B]Season 02 Episode 02[/B]</title>
 <link>https://hhostss.com/stream/v1/playlist/eyJ0cyI6MTY3MDA4Mzg1MywidSI6MzUxOSwiZnJlZSI6MCwiY2hrIjoiZTRhMjZmNjYzNzZiMGYyOGE1Zjk1MDM3NTViYzI3MmYifQ/0/play/0f3ae8912de58964184f6cec90d8e78d/index-f3-v1-a1.m3u8</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ipYbLQfZtMLgA0i1KaMYYfZbGvd.jpg</thumbnail>
 <fanart>https://www.crew-united.com/Media/Images/1620/1620295/1620295.entity.jpg</fanart>
@@ -79,7 +79,7 @@
 </item>
 
 <item>
-<title>[B]Season 02 Odcinek 03[/B]</title>
+<title>[B]Season 02 Episode 03[/B]</title>
 <link>https://hhostss.com/stream/v1/playlist/eyJ0cyI6MTY3MDA4Mzg2NSwidSI6MzUxOSwiZnJlZSI6MCwiY2hrIjoiYmQ4MTg5ZmE0ZmQ0NGZiZmEyNTZhYTQ1MTU4ZjM5ZDYifQ/0/play/6eb991853ba6e52801160988b43829a9/index-f3-v1-a1.m3u8</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ipYbLQfZtMLgA0i1KaMYYfZbGvd.jpg</thumbnail>
 <fanart>https://www.crew-united.com/Media/Images/1620/1620295/1620295.entity.jpg</fanart>
@@ -87,7 +87,7 @@
 </item>
 
 <item>
-<title>[B]Season 02 Odcinek 04[/B]</title>
+<title>[B]Season 02 Episode 04[/B]</title>
 <link>https://hhostss.com/stream/v1/playlist/eyJ0cyI6MTY3MDA4Mzg4MiwidSI6MzUxOSwiZnJlZSI6MCwiY2hrIjoiMTkwN2NhYmU2YzFkMjJlNGY1YTM0ODQyOGZhNmVkNTMifQ/0/play/dc2304fd48b9b8c1d2e17ce80df01a38/index-f3-v1-a1.m3u8</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ipYbLQfZtMLgA0i1KaMYYfZbGvd.jpg</thumbnail>
 <fanart>https://www.crew-united.com/Media/Images/1620/1620295/1620295.entity.jpg</fanart>
@@ -95,7 +95,7 @@
 </item>
 
 <item>
-<title>[B]Season 02 Odcinek 05[/B]</title>
+<title>[B]Season 02 Episode 05[/B]</title>
 <link></link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ipYbLQfZtMLgA0i1KaMYYfZbGvd.jpg</thumbnail>
 <fanart>https://www.crew-united.com/Media/Images/1620/1620295/1620295.entity.jpg</fanart>
@@ -103,7 +103,7 @@
 </item>
 
 <item>
-<title>[B]Season 02 Odcinek 06[/B]</title>
+<title>[B]Season 02 Episode 06[/B]</title>
 <link></link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ipYbLQfZtMLgA0i1KaMYYfZbGvd.jpg</thumbnail>
 <fanart>https://www.crew-united.com/Media/Images/1620/1620295/1620295.entity.jpg</fanart>
@@ -111,7 +111,7 @@
 </item>
 
 <item>
-<title>[B]Season 02 Odcinek 07[/B]</title>
+<title>[B]Season 02 Episode 07[/B]</title>
 <link></link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ipYbLQfZtMLgA0i1KaMYYfZbGvd.jpg</thumbnail>
 <fanart>https://www.crew-united.com/Media/Images/1620/1620295/1620295.entity.jpg</fanart>
@@ -119,7 +119,7 @@
 </item>
 
 <item>
-<title>[B]Season 02 Odcinek 08[/B]</title>
+<title>[B]Season 02 Episode 08[/B]</title>
 <link></link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ipYbLQfZtMLgA0i1KaMYYfZbGvd.jpg</thumbnail>
 <fanart>https://www.crew-united.com/Media/Images/1620/1620295/1620295.entity.jpg</fanart> 
