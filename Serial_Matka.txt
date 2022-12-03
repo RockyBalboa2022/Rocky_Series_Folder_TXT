@@ -1,0 +1,16 @@
+
+<item>
+<title>[B]Season 01 Episode 01[/B]</title>
+<link>https://hhostss.com/stream/v1/playlist/eyJ0cyI6MTY3MDA4NTE5MSwidSI6MzUxOSwiZnJlZSI6MCwiY2hrIjoiYWRkNDJiYTI1NWZhNjMwNGZlMTA1NzRiNDFiZWRjYjYifQ/0/play/4f2412e57cc2f642c624c5032b9162d1/index-f2-v1-a1.m3u8</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yCrzUPiMDEywnpIZj1dgavKaQ35.jpg</thumbnail> small 
+<fanart>https://ipla.pluscdn.pl/dituel/cp/ab/abhv6ahv9fz5smz8km764ge48n4a9zs1.png</fanart> big
+<info></info>
+</item>
+
+<item>
+<title>[B]Season 01 Episode 0[/B]</title>
+<link></link>
+<thumbnail></thumbnail> small 
+<fanart></fanart> big
+<info></info>
+</item>
